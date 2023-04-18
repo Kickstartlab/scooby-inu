@@ -17,13 +17,13 @@ export default function Footer() {
               <img src={logo_2} alt=''></img>
 
               <div className='flex gap-6 items-center justify-center'>
-                <a href='/'>
+                <a href='https://twitter.com/scoobyinu_bsc'>
                   <div className='w-14 h-14 pt-2 rounded-full bg-white-100 text-center'>
                     <i className="fa fa-twitter  fa-2x text-blue-100 pt-2" aria-hidden="true"></i>
                   </div>
                 </a>
 
-                <a href='/'>
+                <a href='https://t.me/scoobyinuofficiaI'>
                   <div className='pt-1 w-14 h-14 rounded-full bg-white-100 text-center'>
                     <i className="fa fa-telegram fa-2x text-blue-100 pt-2" aria-hidden="true"></i>
                   </div>
