@@ -31,7 +31,7 @@ export default function Footer() {
 
                 <a href='mailto:add enscoopyinudoo@gmail.com'>
                   <div className='pt-1 w-14 h-14 rounded-full bg-white-100 text-center'>
-                    <i className="fa fa-envelope fa-2x text-blue-200" aria-hidden="true"></i>
+                    <i className="fa fa-envelope fa-2x text-blue-100 pt-2" aria-hidden="true"></i>
                   </div>
                 </a>
               </div>
