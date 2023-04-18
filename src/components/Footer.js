@@ -29,7 +29,7 @@ export default function Footer() {
                   </div>
                 </a>
 
-                <a href='mailto:add enscoopyinudoo@gmail.com'>
+                <a href='mailto:scoobyinu1@gmail.com'>
                   <div className='pt-1 w-14 h-14 rounded-full bg-white-100 text-center'>
                     <i className="fa fa-envelope fa-2x text-blue-100 pt-2" aria-hidden="true"></i>
                   </div>
