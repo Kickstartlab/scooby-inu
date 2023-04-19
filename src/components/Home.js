@@ -64,7 +64,7 @@ export default function Home() {
                                 HOLD $KRYPTO AND EARN $DOGE 😍
                             </h2>
                             <p className='py-8 text-blue-200 font-poppins font-semibold text-lg'>
-                                2% fee of each transaction is redistributed in DOGECOIN to holders of $KRYPTO
+                                3% fee of each transaction is redistributed in DOGECOIN to holders of $KRYPTO
                             </p>
 
                             <a href="/" className=''>
@@ -75,7 +75,7 @@ export default function Home() {
                             <img src={rings} alt="Logo" className='absolute right-0 -mt-12 lg:block hidden box' />
                             <img src={foot} alt="Logo" className='absolute -ml-12 w-12 mt-8 lg:block hidden box' />
                             <p className='mt-8 leading-loose lg:w-10/12'>
-                                Holders of Krypto Inu token will earn DOGECOIN by simply holding $KRYPTO tokens in their wallet. $KRYPTO holders automatically receive a 2% rewards from every transaction.
+                                Holders of Krypto inu  token  will earn DOGECOIN by simply holding $KRYPTO tokens in their wallet. $KRYPTO holders automatically receive a 3% rewards from every transaction.
                             </p>
 
                         </div>

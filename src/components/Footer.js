@@ -19,19 +19,19 @@ export default function Footer() {
               </a>
 
               <div className='flex gap-6 items-center'>
-                <a href='https://twitter.com/scoobyinu_bsc'>
+                <a href='https://twitter.com/kryptoinu_bsc'>
                   <div className='w-14 h-14 pt-2 rounded-full bg-white-100 text-center'>
                     <i className="fa fa-twitter  fa-2x text-blue-100 pt-2" aria-hidden="true"></i>
                   </div>
                 </a>
 
-                <a href='https://t.me/scoobyinuofficiaI'>
+                <a href='https://t.me/kryptoinu_official'>
                   <div className='pt-1 w-14 h-14 rounded-full bg-white-100 text-center'>
                     <i className="fa fa-telegram fa-2x text-blue-100 pt-2" aria-hidden="true"></i>
                   </div>
                 </a>
 
-                <a href='mailto:scoobyinu1@gmail.com'>
+                <a href='mailto:kryptoinuthesuperdog@gmail.com'>
                   <div className='pt-1 w-14 h-14 rounded-full bg-white-100 text-center'>
                     <i className="fa fa-envelope fa-2x text-blue-100 pt-2" aria-hidden="true"></i>
                   </div>
