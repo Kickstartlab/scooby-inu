@@ -148,11 +148,11 @@ export default function Home() {
 
                     <div data-aos="fade-up" data-aos-delay="350" className='lg:flex items-center justify-center gap-x-24 lg:space-y-0 space-y-4'>
 
-                        <h2 data-aos="slide-right" className='lg:w-1/2 md:text-4xl text-2xl font-slackey font-semibold text-blue-100 uppercase'>
+                        <h2 data-aos="slide-right" className='lg:w-1/4 md:text-4xl text-2xl font-slackey font-semibold text-blue-100 uppercase'>
                             NFT & NFT STAKING
                         </h2>
 
-                        <p className='text-blue-200 font-semibold leading-loose'>
+                        <p className='text-blue-200 font-semibold leading-loose lg:w-1/2'>
                             User-friendly dApp interface allows investors to easily stake their NFTS, track their rewards, and explore the broad range of staking options available to them. We believe that our platform is designed with a strong emphasis on security and reliability, with robust measures in place to protect user data and assets.
                         </p>
                     </div>
@@ -276,7 +276,7 @@ export default function Home() {
                             Our ROADMAP
                         </h2>
 
-                        <p className='text-blue-200 font-semibold leading-loose'>
+                        <p className='text-blue-200 leading-loose'>
                             Below is listed our Roadmap explained and distributed among 6 phases for a smooth and rich experience for our every user.
                         </p>
                     </div>
