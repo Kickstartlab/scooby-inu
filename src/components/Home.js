@@ -52,8 +52,8 @@ export default function Home() {
                     <div className="lg:flex block justify-between items-center gap-x-12 py-12">
 
                         <div data-aos="zoom-in" data-aos-delay="350" className="">
-                            <img  data-aos="zoom-in" src={top_1} alt="Logo" className='' />
-                            <img  data-aos="fade-up" src={top_2} alt="Logo" className='lg:block hidden ml-52 -mt-24' />
+                            <img data-aos="zoom-in" src={top_1} alt="Logo" className='' />
+                            <img data-aos="fade-up" src={top_2} alt="Logo" className='lg:block hidden ml-52 -mt-24' />
                             <img src={foot} alt="Logo" className='absolute -mt-16 ml-12 lg:block hidden' />
                         </div>
 
@@ -95,7 +95,7 @@ export default function Home() {
                         <div data-aos="fade-left" className="lg:w-1/2">
 
                             <h2 className='md:text-5xl text-3xl font-slackey font-semibold text-blue-100 uppercase'>
-                                What is Krypto Inu
+                                What is Krypto inu?
                             </h2>
 
                             <div className='lg:flex items-center gap-x-10 my-6'>
@@ -117,7 +117,11 @@ export default function Home() {
                             </div>
 
                             <p className='text-blue-200 font-semibold leading-loose'>
-                                Krypto Inu is a Brand New DeFi Token based on binance smart chain with a Token Rewards on every transaction. the token was inspired by Scooby Doo the legendary cartoon dog one of the most-loved cartoon dogs to appear on film or television. this Great Dane often appears to be chasing ghosts, though he is in fact running away from them. On occasion, he proves to be a brave dog and top detective, but most of the time, he hides from the ghosts and vampires he meets.
+                                Krypto inu is a DeFi meme Token built on binance smart chain with a Token Rewards on every transaction. the token was inspired by krypto The SuperDog, the legendary cartoon dog one of the most-loved cartoon dogs to appear on movies or television shows as well as in comic books.
+                            </p>
+
+                            <p className='text-blue-200 font-semibold leading-loose pt-5'>
+                                Meme season is back and krypto the super hero is here to make bsc great again, join krypto on his epic journey towards the fight on evil and get rewarded along the way.
                             </p>
 
                             <a href="/" className=''>
@@ -243,7 +247,7 @@ export default function Home() {
 
                                 <div className='group-hover:text-white-100 text-blue-50 text-center space-y-3'>
                                     <p className='text-lg font-semibold font-slackey underline'>Rewards</p>
-                                    <p className='text-3xl font-semibold'>2%</p>
+                                    <p className='text-3xl font-semibold'>3%</p>
                                 </div>
                             </div>
 
@@ -254,7 +258,7 @@ export default function Home() {
 
                                 <div className='group-hover:text-white-100 text-blue-50 text-center space-y-3'>
                                     <p className='text-lg font-semibold font-slackey underline'>Buy Back</p>
-                                    <p className='text-3xl font-semibold'>2%</p>
+                                    <p className='text-3xl font-semibold'>1%</p>
                                 </div>
                             </div>
 
