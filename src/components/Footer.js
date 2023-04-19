@@ -11,12 +11,14 @@ export default function Footer() {
         <div className="grid lg:grid-cols-4 grid-cols-1 items-center justify-between py-12">
 
           <div className="flex flex-col gap-y-6 items-center justify-center col-span-2">
-            <div className="space-y-4">
+            <div className="space-y-4 align-middle">
 
-              <img src={logo} alt=''></img>
-              <img src={logo_2} alt=''></img>
+              <img src={logo} alt='' className='mb-2'></img>
+              <a href='/' alt='krypto'>
+                <img src={logo_2} alt=''></img>
+              </a>
 
-              <div className='flex gap-6 items-center justify-center'>
+              <div className='flex gap-6 items-center'>
                 <a href='https://twitter.com/scoobyinu_bsc'>
                   <div className='w-14 h-14 pt-2 rounded-full bg-white-100 text-center'>
                     <i className="fa fa-twitter  fa-2x text-blue-100 pt-2" aria-hidden="true"></i>

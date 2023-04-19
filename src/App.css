@@ -11,7 +11,7 @@
   background-image: url(../src/assets/bg_token.png);
   background-size: cover;
   background-position: center;
-  background-color: rgba(255, 239, 222, 0.5);
+  background-color: rgb(244 216 165 / 80%);;
   /* mix-blend-mode: color-burn; */
 }
 

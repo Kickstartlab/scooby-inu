@@ -41,7 +41,7 @@ export default function Home() {
     }, [])
 
     return (
-        <div className="bg-white-100 text-blue-50 font-poppins overflow-hidden">
+        <div className="bg-white-50 text-blue-50 font-poppins overflow-hidden">
 
             {/* top section */}
 
@@ -61,10 +61,10 @@ export default function Home() {
                             <img src={star} alt="Logo" className='absolute -ml-24 mt-8 lg:block hidden box' />
 
                             <h2 className='md:text-5xl text-3xl font-slackey font-bold text-blue-100'>
-                                HOLD $SCOOBY AND EARN $DOGE 😍
+                                HOLD $KRYPTO AND EARN $DOGE 😍
                             </h2>
                             <p className='py-8 text-blue-200 font-poppins font-semibold text-lg'>
-                                2% fee of each transaction is redistributed in DOGECOIN to holders of $SCOOBY
+                                2% fee of each transaction is redistributed in DOGECOIN to holders of $KRYPTO
                             </p>
 
                             <a href="/" className=''>
@@ -75,7 +75,7 @@ export default function Home() {
                             <img src={rings} alt="Logo" className='absolute right-0 -mt-12 lg:block hidden box' />
                             <img src={foot} alt="Logo" className='absolute -ml-12 w-12 mt-8 lg:block hidden box' />
                             <p className='mt-8 leading-loose lg:w-10/12'>
-                                Holders of Scooby Inu token will earn DOGECOIN by simply holding $SCOOBY tokens in their wallet. $SCOOBY holders automatically receive a 2% rewards from every transaction.
+                                Holders of Krypto Inu token will earn DOGECOIN by simply holding $KRYPTO tokens in their wallet. $KRYPTO holders automatically receive a 2% rewards from every transaction.
                             </p>
 
                         </div>
@@ -95,7 +95,7 @@ export default function Home() {
                         <div data-aos="fade-left" className="lg:w-1/2">
 
                             <h2 className='md:text-5xl text-3xl font-slackey font-semibold text-blue-100 uppercase'>
-                                What is Scooby Inu
+                                What is Krypto Inu
                             </h2>
 
                             <div className='lg:flex items-center gap-x-10 my-6'>
@@ -117,7 +117,7 @@ export default function Home() {
                             </div>
 
                             <p className='text-blue-200 font-semibold leading-loose'>
-                                Scooby inu is a Brand New DeFi Token based on binance smart chain with a Token Rewards on every transaction. the token was inspired by Scooby Doo the legendary cartoon dog one of the most-loved cartoon dogs to appear on film or television. this Great Dane often appears to be chasing ghosts, though he is in fact running away from them. On occasion, he proves to be a brave dog and top detective, but most of the time, he hides from the ghosts and vampires he meets.
+                                Krypto Inu is a Brand New DeFi Token based on binance smart chain with a Token Rewards on every transaction. the token was inspired by Scooby Doo the legendary cartoon dog one of the most-loved cartoon dogs to appear on film or television. this Great Dane often appears to be chasing ghosts, though he is in fact running away from them. On occasion, he proves to be a brave dog and top detective, but most of the time, he hides from the ghosts and vampires he meets.
                             </p>
 
                             <a href="/" className=''>
@@ -185,9 +185,9 @@ export default function Home() {
                                 <img src={token_1} alt=''></img>
                             </div>
 
-                            <div className='group-hover:text-white-100'>
+                            <div className='group-hover:text-white-100 text-center space-y-3'>
                                 <p className='text-lg font-semibold font-slackey underline'>Token Name</p>
-                                <p className='text-3xl font-semibold'>Scooby Inu</p>
+                                <p className='text-3xl font-semibold'>Krypto Inu</p>
                             </div>
                         </div>
 
@@ -196,9 +196,9 @@ export default function Home() {
                                 <img src={token_2} alt=''></img>
                             </div>
 
-                            <div className='group-hover:text-white-100'>
+                            <div className='group-hover:text-white-100 text-center space-y-3'>
                                 <p className='text-lg font-semibold font-slackey underline'>Symbol</p>
-                                <p className='text-3xl font-semibold'>$SCOOBY</p>
+                                <p className='text-3xl font-semibold'>$KRYPTO</p>
                             </div>
                         </div>
 
@@ -207,7 +207,7 @@ export default function Home() {
                                 <img src={token_3} alt=''></img>
                             </div>
 
-                            <div className='group-hover:text-white-100'>
+                            <div className='group-hover:text-white-100 text-center space-y-3'>
                                 <p className='text-lg font-semibold font-slackey underline'>Token Supply</p>
                                 <p className='text-3xl font-semibold'>100,000,000,000</p>
                             </div>
@@ -230,7 +230,7 @@ export default function Home() {
                                     <img src={token_4} alt=''></img>
                                 </div>
 
-                                <div className='group-hover:text-white-100'>
+                                <div className='group-hover:text-white-100 text-center space-y-3'>
                                     <p className='text-lg font-semibold font-slackey underline'>MARKETING</p>
                                     <p className='text-3xl font-semibold'>4%</p>
                                 </div>
@@ -241,7 +241,7 @@ export default function Home() {
                                     <img src={token_5} alt=''></img>
                                 </div>
 
-                                <div className='group-hover:text-white-100 text-blue-50'>
+                                <div className='group-hover:text-white-100 text-blue-50 text-center space-y-3'>
                                     <p className='text-lg font-semibold font-slackey underline'>Rewards</p>
                                     <p className='text-3xl font-semibold'>2%</p>
                                 </div>
@@ -252,7 +252,7 @@ export default function Home() {
                                     <img src={token_6} alt=''></img>
                                 </div>
 
-                                <div className='group-hover:text-white-100 text-blue-50'>
+                                <div className='group-hover:text-white-100 text-blue-50 text-center space-y-3'>
                                     <p className='text-lg font-semibold font-slackey underline'>Buy Back</p>
                                     <p className='text-3xl font-semibold'>2%</p>
                                 </div>
